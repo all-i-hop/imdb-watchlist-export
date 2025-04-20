@@ -49,10 +49,7 @@ npm install
 ### ▶ Scrape the Watchlist
 
 ```bash
-# Scrape using default user (in index.js)
-node index.js
-
-# OR pass a specific IMDb user ID
+# pass a specific IMDb user ID
 node index.js ur123456789
 ```
 
