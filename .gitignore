@@ -1,3 +1,5 @@
+watchlist_*.json
+.DS_Store
 # Logs
 logs
 *.log
